@@ -2,7 +2,7 @@
 
 A modern, futuristic portfolio website for Sandile Khoza, Computer Science & Mathematics Graduate from Northwest University (NWU). Showcasing expertise in Software Engineering and Networking.
 
-## 🚀 Features
+## Features
 
 - **Modern & Futuristic Design**: Glassmorphism effects, gradient backgrounds, and smooth animations
 - **Fully Responsive**: Works seamlessly on desktop, tablet, and mobile devices
@@ -17,7 +17,7 @@ A modern, futuristic portfolio website for Sandile Khoza, Computer Science & Mat
 - **Smooth Animations**: Framer Motion animations throughout
 - **Modern Tech Stack**: React 18, Tailwind CSS 3, Vite
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:**
 - React 18.2
@@ -30,7 +30,7 @@ A modern, futuristic portfolio website for Sandile Khoza, Computer Science & Mat
 - PostCSS
 - Autoprefixer
 
-## 📦 Installation
+## Installation
 
 1. **Clone or Extract the Repository**
    ```bash
@@ -48,7 +48,7 @@ A modern, futuristic portfolio website for Sandile Khoza, Computer Science & Mat
    ```
    The portfolio will open automatically at `http://localhost:5173`
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 src/
@@ -70,7 +70,7 @@ public/
 └── postcss.config.js       # PostCSS configuration
 ```
 
-## 🎨 Color Scheme
+## Color Scheme
 
 - **Primary**: `#00f0ff` (Cyan)
 - **Secondary**: `#ff006e` (Pink/Magenta)
@@ -78,7 +78,7 @@ public/
 - **Dark**: `#0a0e27` (Very Dark Blue)
 - **Darker**: `#050812` (Almost Black)
 
-## 📝 Available Scripts
+## Available Scripts
 
 ```bash
 # Development server with hot reload
@@ -94,7 +94,7 @@ npm run preview
 npm run lint
 ```
 
-## 🎯 Customization
+## Customization
 
 ### Update Content
 
@@ -142,7 +142,7 @@ colors: {
    import myImage from '../assets/my-image.png'
    ```
 
-## 🚀 Deployment
+## Deployment
 
 ### Deploy to Vercel (Recommended)
 
@@ -159,7 +159,7 @@ colors: {
 
 Configure in `vite.config.js` and push to GitHub
 
-## 🔗 Integration
+## Integration
 
 ### Add Form Backend
 Currently, the contact form logs to console. To enable email:
@@ -172,31 +172,31 @@ Add Google Analytics or similar in `index.html`
 ### Add Blog Section
 Create a new `Blog.jsx` component and integrate with a CMS
 
-## 📱 Browser Support
+## Browser Support
 
 - Chrome/Edge (Latest)
 - Firefox (Latest)
 - Safari (Latest)
 - Mobile browsers
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork and customize this portfolio for your own use!
 
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
-## ✨ Credits
+## Credits
 
-Built with ❤️ using:
+Built with passion using:
 - [React](https://react.dev)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Framer Motion](https://www.framer.com/motion)
 - [Lucide Icons](https://lucide.dev)
 - [Vite](https://vitejs.dev)
 
-## 📞 Support
+## Support
 
 For questions or issues, please reach out through the contact form on the portfolio or via the social links provided.
 
